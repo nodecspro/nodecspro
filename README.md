@@ -23,19 +23,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nodecspro&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nodecspro&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodecspro&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nodecspro&theme=onestar&no-frame=true&margin-w=10&margin-h=15" />
 </p>
 
 ---
